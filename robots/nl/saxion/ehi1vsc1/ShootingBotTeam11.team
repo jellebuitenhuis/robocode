@@ -1,0 +1,6 @@
+#Robocode robot team
+#Thu Apr 04 21:26:15 CEST 2019
+team.members=nl.saxion.ehi1vsc1.ShootingBot*,nl.saxion.ehi1vsc1.ShootingBot*,nl.saxion.ehi1vsc1.ShootingBot*,nl.saxion.ehi1vsc1.ShootingBot*
+team.author.name=
+robocode.version=1.9.3.0
+team.description=shooting bots\t\t

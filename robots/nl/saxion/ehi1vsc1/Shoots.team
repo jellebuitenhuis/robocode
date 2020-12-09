@@ -1,0 +1,6 @@
+#Robocode robot team
+#Fri Apr 12 15:30:40 CEST 2019
+team.members=nl.saxion.ehi1vsc1.ShootingBot 1.0,nl.saxion.ehi1vsc1.ShootingBot 1.0,nl.saxion.ehi1vsc1.ShootingBot 1.0,nl.saxion.ehi1vsc1.ShootingBot 1.0
+team.author.name=Jelle
+robocode.version=1.9.3.0
+team.description=Jelle's bot
